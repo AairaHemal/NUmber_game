@@ -10,9 +10,11 @@ Limit System: Integrated guess counter to track attempts and enforce a lose cond
 🛠️ How to Run
 Clone the project or copy the source code into a file named main.cpp.
 Compile using a C++ compiler (like G++) or gcc.
+
 g++ main.cpp -o GuessingGame
 
 Execute the program:
+
 ./GuessingGame
 
 🎮 How to Play
