@@ -39,6 +39,7 @@ int main()
     if(guesses>3){
     cout<<endl;
     cout<<"YOU FAILED :("<<endl;
+    cout<<"THE NUMBER WAS: "<<num<<endl;
     }
     return 0;
 }
